@@ -1,0 +1,77 @@
+.parkinsans-font {
+  font-family: "Parkinsans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 550;
+  font-style: normal;
+  background-color: #DDA0DD;
+  color: black;
+}
+
+.heading1{
+    display:inline-block;
+    transform:scale(2.25,1.5);
+    color: #33006F;
+    font-weight: 900;
+}
+
+.images{
+  border: 5px black;
+}
+
+header{
+    text-align: center;
+    border: 10px #662d91 solid;
+    border-radius: 25px;
+    background-color: #D8BFD8;
+}
+
+.container-fluid{
+  background-color: #DDA0DD;
+}
+body{
+  padding: 10px;  
+  background-color: #DDA0DD;
+  color: rgb(30, 30, 30);
+}
+
+#details{
+    border: 5px rgb(11, 83, 81) solid;
+    width: 300px;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.detailsheading{
+  text-align: center;
+}
+
+#equipment{
+  border: 5px rgb(11, 83, 81) solid;
+  border-radius: 25px;
+  width: 300px;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+#equipmentheading{
+  text-align: center;
+}
+#ingredients{
+    border: 5px rgb(11, 83, 81) solid;
+    width: 900px;
+    border-radius: 25px;
+    position: absolute;
+    right: 70px;
+    top: 960px;
+}
+
+#headingthing{
+    text-align: center;
+}
+
+hr{
+  height: 2px;
+  background-color: black;
+  border: black;
+}
+
