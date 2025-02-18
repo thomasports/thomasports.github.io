@@ -75,3 +75,9 @@ hr{
   border: black;
 }
 
+.centerblock {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
